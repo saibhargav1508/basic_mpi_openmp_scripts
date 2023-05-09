@@ -1,4 +1,4 @@
-# basic_mpi_openmp_scripts
+# mpi_openmp_scripts
 This repository contains MPI and OpenMP based parallel programs.
 
 ## Matrix multiple using MPI
