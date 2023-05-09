@@ -2,7 +2,7 @@
 // EEL6763
 
 /* sed.c */
-/* Source: http://www.doc.gold.ac.uk/~mas02fl/MSC101/ImageProcess/edge.html */
+/* based on http://www.doc.gold.ac.uk/~mas02fl/MSC101/ImageProcess/edge.html */
 
 #include <math.h>
 #include <time.h>
